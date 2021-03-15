@@ -11,3 +11,6 @@ François Beauducel (2021). ARROWS: generalized and vectorized 2-D arrows plot (
 5) To make sure this was installed correctly, go to the MATLAB command window and type:  arrows(1,1,1,1) , a plot of an arrow should be prompted
 6) Download my code on this repository: "light_matter_energy_level_diagram.m" and open it on MATLAB. Run the code and get a nice energy level diagram! (it should look like the "example.png" file) 
 7) Modify the code to get the specific type of plot you are looking for (add photon couplings, make photons non-collinear, change colors, etc.)  
+
+# MATLAB File Exchange:
+[![View light-matter-interaction-energy-diagrams on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88838-light-matter-interaction-energy-diagrams)
