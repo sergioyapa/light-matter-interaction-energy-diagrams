@@ -13,4 +13,4 @@ François Beauducel (2021). ARROWS: generalized and vectorized 2-D arrows plot (
 7) Modify the code to get the specific type of plot you are looking for (add photon couplings, make photons non-collinear, change colors, etc.)  
 
 # MATLAB File Exchange:
-[![View light-matter-interaction-energy-diagrams on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88838-light-matter-interaction-energy-diagrams)
+[![View Light-matter interaction energy diagrams on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/88838-light-matter-interaction-energy-diagrams)
